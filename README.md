@@ -4,7 +4,7 @@
 <h3 align="center"> Estudiante de Desarrollo de Software 💻 & Business Intelligence and Data Analytics </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzYnYwOG5wOGZ2eGhkOTlhMzBqOHY2MGkzeHpsdHJpc2NyZ3R3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+ <img align="right" top="500" height="500" width="500" alt="GIF" src="https://github.com/julieta-turco/julieta-turco/blob/c84534d0fdaac886cabc1c2cd2b1a839641460ec/intento2.svg">
 </a>
 
 - 🎓 Actualmente estudio en el Instituto Técnico Superior Córdoba (ITSC).
