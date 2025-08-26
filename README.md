@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/julieta-turco/julieta-turco/blob/f6756290018257a386301d44d9ddac665ff9cfe3/dime%20y%20lo%20olvido%20ens%C3%A9%C3%B1ame%20y%20lo%20recuerdo%20invol%C3%BAcrame%20y%20lo%20aprendo.png)
 
 <h1 align="center"><b> Hola, soy Julieta Turco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center"> Estudiante de Desarrollo de Software 💻 & Business Intelligence and Data Analytics </h3>
